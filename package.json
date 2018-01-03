@@ -1,0 +1,36 @@
+{
+  "name": "dq12",
+  "version": "0.0.5",
+  "description": "## Installation",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfjBill/dq12.git"
+  },
+  "author": "nfjbill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfjBill/dq12/issues"
+  },
+  "homepage": "https://github.com/nfjBill/dq12#readme",
+  "devDependencies": {
+    "@types/jest": "^22.0.0",
+    "@types/node": "^8.5.2",
+    "@types/react": "^16.0.32",
+    "@types/react-dom": "^16.0.3",
+    "typescript": "^2.6.2"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  },
+  "dependencies": {
+    "antd": "^3.1.0",
+    "dva": "^2.1.0",
+    "dva-loading": "^1.0.4",
+    "history": "^4.7.2"
+  }
+}
