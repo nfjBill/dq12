@@ -1,6 +1,6 @@
 {
   "name": "dq12",
-  "version": "0.0.22",
+  "version": "0.0.28",
   "description": "## Installation",
   "main": "lib/index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "react": "^16.2.0"
   },
   "dependencies": {
-    "antd": "^3.1.0",
+    "antd": "^3.1.1",
     "dva": "^2.1.0",
     "dva-loading": "^1.0.4",
     "es6-promise": "^4.2.2",
